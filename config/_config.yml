@@ -136,17 +136,27 @@ exturl: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  home: / || 首页
+  home: / || home
   #about: /about/ || user
-  tags: /tags/ || 标签
-  categories: /catogery/ || 分类
-  about: /about/ || 关于
-  #categories: /categories/ || th
+  tags: /tags/ || tags
+  # categories: /catogery/ || categories
+ 
+  categories: /categories/ || th
+  about: /about/ || user
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
+menu_icons:
+  enable: true
+  # Icon Mapping.
+  home: home
+  about: user
+  categories: th
+  tags: tags
+  archives: archive
+  commonweal: heartbeat
 # Enable/Disable menu icons / item badges.
 menu_settings:
   icons: true
