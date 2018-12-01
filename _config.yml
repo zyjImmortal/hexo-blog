@@ -78,7 +78,10 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  # type: git
+  # repo: <repository url>
+  # branch: [branch]
+  # message: [message]
 
 search:
   path: search.xml

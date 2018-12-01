@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>中和明诚</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zhonghemingcheng.com/"/>
+  <updated>2018-11-29T17:18:02.439Z</updated>
+  <id>http://zhonghemingcheng.com/</id>
+  
+  <author>
+    <name>Tester</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo+git+阿里云ECS搭建及自动化部署</title>
+    <link href="http://zhonghemingcheng.com/2018/11/30/hexo-build/"/>
+    <id>http://zhonghemingcheng.com/2018/11/30/hexo-build/</id>
+    <published>2018-11-29T16:18:50.000Z</published>
+    <updated>2018-11-29T17:18:02.439Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://zhonghemingcheng.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://zhonghemingcheng.com/tags/hexo/"/>
+    
+      <category term="博客" scheme="http://zhonghemingcheng.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
