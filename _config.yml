@@ -7,13 +7,13 @@ title: 中和明诚
 subtitle:
 description: 念念不忘，必有回响！
 keywords:
-author: 周亚军
+author: Tester
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://zhonghemingcheng.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,3 +79,9 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
